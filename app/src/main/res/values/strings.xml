@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">javatutorials</string>
+    <string name="app_header">JAVA Tutorials</string>
+    <string name="app_contact">Cantact Details:</string>
+    <string name="app_web_url">www.malliktalksjava.com</string>
+    <string name="app_contact_email">admin@malliktalksjava.com</string>
+    <string name="str_popular_tutorials">Popular Tutorials:</string>
+    <string name="str_java">1.JAVA</string>
+    <string name="str_micro_services">2.Microservices</string>
+
+</resources>
